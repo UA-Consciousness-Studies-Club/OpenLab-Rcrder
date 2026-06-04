@@ -146,6 +146,26 @@ Built with time donated by **QIM Group volunteers**, and catalyzed by the
 **Consciousness Studies Club** and its brain-computer-interface lab, whose
 research environment and recording needs sparked this work.
 
+## Disclaimer
+
+OpenLab Recorder is research software, provided **"as is" without warranty of any
+kind** (see [LICENSE](LICENSE)). It is **not a medical device** and is not
+intended for clinical diagnosis, treatment, or any safety-critical use.
+
+Responsibility for any use rests entirely with the user. Anyone who runs, copies,
+modifies, or redistributes this software is solely responsible for:
+
+- the safety and suitability of their own hardware setup and electrode application;
+- obtaining any required ethics / institutional review board approval and informed
+  consent before recording from human participants;
+- compliance with all applicable laws, regulations, and data-protection rules in
+  their jurisdiction.
+
+To the maximum extent permitted by law, the authors and contributors, the
+**Consciousness Studies Club** and its brain-computer-interface lab, and the
+**QIM Group** accept no liability for any loss, harm, or damage arising from use
+of this software. Using it constitutes acceptance of these terms.
+
 ## License
 
 MIT — see [LICENSE](LICENSE). Free to use, modify, and redistribute, including
@@ -153,4 +173,6 @@ for research. The upstream components retain their own licenses (MIT for
 BrainFlow, Lab Streaming Layer, and LabRecorder; BSD-2-Clause for pyxdf).
 
 Full third-party attribution — every project this bridge depends on or adapts,
-with its license and link — is in [CREDITS.md](CREDITS.md).
+with its license and link — is in [CREDITS.md](CREDITS.md). Reproduced copyright
+and permission notices for the MIT source adapted here are in
+[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
